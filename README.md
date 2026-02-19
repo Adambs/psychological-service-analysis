@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.jpg" alt="Let's Talk Online - Psychology Service" width="500">
+</p>
+
 # Let's Talk Online — Psychology Service Analysis
 
 A comprehensive data analysis of a subscription-based digital psychological health service, examining growth patterns, user retention, channel performance, and supply-side economics.
