@@ -43,6 +43,8 @@ This analysis reveals key insights about the business:
 3. **SEO brings quality, Affiliate brings scale** - SEO users generate 2x higher LTV but with greater variance
 4. **Supply concentration risk** - 35% of psychologists generate 80% of monthly profit
 
+➡️ See [Actionable Recommendations](#actionable-recommendations) for strategic next steps.
+
 ---
 
 ## 1. Profit Structure
