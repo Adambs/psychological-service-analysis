@@ -49,8 +49,6 @@ This analysis reveals key insights about the business:
 
 ## 1. Profit Structure
 
-### Chat Became the Primary Profit Engine
-
 ![Monthly Profit by Service Type](images/monthly_profit_by_service_type.png)
 
 **What the chart shows:**
@@ -66,8 +64,6 @@ Between 2023 and 2024, Chat maintained strong growth and reached its peak near ~
 ---
 
 ## 2. Growth Driver: Acquisition vs Engagement
-
-### Chat's Profit Growth Was Driven by User Acquisition (20x), Not Engagement
 
 ![User Growth and Engagement](images/users_vs_usage_story.png)
 
@@ -86,8 +82,6 @@ Engagement per user did not increase alongside Chat's user growth. Chat usage pe
 
 ## 3. Lifecycle Bottleneck
 
-### Session 1→2 is the Critical Churn Point: 40-60% Never Return
-
 ![Churn Analysis](images/churn_analysis.png)
 
 **What the chart shows:**
@@ -105,8 +99,6 @@ Cumulative churn reaches ~50-60% by session 2, after which retention stabilizes.
 
 ## 4. Supply Side Analysis (Providers)
 
-### 35% of Psychologists Generate 80% of Monthly Profit
-
 ![Provider Revenue Distribution](images/monthly_profit_per_psychologist.png)
 
 **What the chart shows:**
@@ -123,8 +115,6 @@ The distribution shows that 82% of psychologists generate less than $500/month, 
 ---
 
 ## 5. Demand Side Analysis (Client Acquisition)
-
-### SEO and Media Generate Higher Long-Term Value
 
 ![Cohort Analysis](images/cohorts_curves_and_table.png)
 
