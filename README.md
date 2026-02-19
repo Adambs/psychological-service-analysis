@@ -2,19 +2,24 @@
   <img src="images/logo.jpg" alt="Let's Talk Online - Psychology Service" width="500">
 </p>
 
-# Let's Talk Online — Psychology Service Analysis
+# SaaS Marketplace Analysis: Online Psychology Service
 
-A comprehensive data analysis of a subscription-based digital psychological health service, examining growth patterns, user retention, channel performance, and supply-side economics.
+A comprehensive data analysis of a **two-sided SaaS marketplace** connecting clients with licensed mental health professionals. This analysis examines growth patterns, user retention, channel performance, and supply-side economics for a digital therapy platform.
 
-**Dataset:** 2.4M transactions | **Time Period:** 2020-2024 | **Users:** 36K+ | **Providers:** 1,178
+**Dataset:** 2.4M transactions | **Time Period:** 2020-2024 | **Clients:** 36K+ | **Providers:** 1,178 psychologists
 
 ---
 
-## Company Service Overview
+## Marketplace Overview
 
-The company provides an online psychological health service, connecting clients with licensed mental health professionals through three communication channels: **Call**, **Chat**, and **Video-Call**. These services allow clients to receive emotional support, therapy, and psychological guidance remotely in a convenient and accessible way.
+This SaaS platform operates as a **two-sided marketplace** connecting clients seeking mental health support with licensed psychologists. The platform facilitates therapy sessions through three communication channels: **Call**, **Chat**, and **Video-Call**.
 
-The company's success depends on increasing service adoption, building long-term client relationships, ensuring high-quality therapeutic outcomes, and maintaining strong revenue efficiency.
+**Business Model:**
+- **Demand side:** Clients seeking therapy, counseling, and mental health support
+- **Supply side:** Licensed psychologists providing remote sessions
+- **Revenue:** Platform commission on completed sessions
+
+The marketplace's success depends on balancing supply and demand, optimizing client-provider matching, maximizing provider utilization, and building long-term client relationships.
 
 ---
 
@@ -96,7 +101,7 @@ Cumulative churn reaches ~50–60% by session 2, after which retention stabilize
 
 ---
 
-## 4. Providers (Psychologists) Analysis
+## 4. Supply Side Analysis (Providers)
 
 ### 35% of Psychologists Generate 80% of Monthly Profit
 
@@ -115,7 +120,7 @@ The distribution shows that 82% of psychologists generate less than $500/month, 
 
 ---
 
-## 5. Acquisition Quality
+## 5. Demand Side Analysis (Client Acquisition)
 
 ### SEO and Media Generate Higher Long-Term Value
 
