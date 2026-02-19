@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.jpg" alt="Let's Talk Online - Psychology Service" width="500">
+  <img src="images/logo.png" alt="Let's Talk Online - Psychology Service" width="500">
 </p>
 
 # SaaS Marketplace Analysis: Online Psychology Service
